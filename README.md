@@ -23,7 +23,7 @@ The main application code is organized as follows:
 
 # test cases
 ## Test Descriptions
-TestCard
+ TestCard
 
     test_card_creation: Verifies that a Card object has been properly initialized with the desired properties.
     test_card_on_click: Examines whether specific properties are updated appropriately following a simulated click event by testing a Card object's on_click method.
