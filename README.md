@@ -15,9 +15,9 @@ The main application code is organized as follows:
 
      - **Assets**: Directory containing images used in the game (images, background, etc.).
 
-    - **Sounds**: Directory containing sound files used in the game.
+     - **Sounds**: Directory containing sound files used in the game.
 
-    - **Info**: Directory containing JSON files with information about the images used in the game.
+     - **Info**: Directory containing JSON files with information about the images used in the game.
 
 
 
