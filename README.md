@@ -43,7 +43,7 @@ TestMessageBox
 
            test_message_box: Explanation of the particular examinations conducted on the message_box function.
 
-##Resources
+## Resources
 
     Pygame: A collection of Python modules made specifically for creating video games, the Pygame library, is used to implement the game.
 
